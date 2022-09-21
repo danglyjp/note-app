@@ -1,0 +1,7 @@
+database name  : todo (mysql)
+
+table database : todo
+
+todo_id   : int(3) AUTO_INCREMENT PRIMARY KEY
+todo_name : varchar(255) utf8mb4_unicode_ci
+todo_date : datetime(6)
